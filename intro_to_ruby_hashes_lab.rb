@@ -30,7 +30,9 @@ def monopoly_with_third_tier
 	      three_RR: 100,
 	      four_RR: 200
 	    },
-	    names: []
+	    names: {
+	      
+	    }
 	  }
 	}
 end
