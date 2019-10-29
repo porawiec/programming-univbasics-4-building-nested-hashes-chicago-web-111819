@@ -29,7 +29,7 @@ def monopoly_with_third_tier
 	      two_RR: 50,
 	      three_RR: 100,
 	      four_RR: 200
-	    }
+	    },
 	    names: []
 	  }
 	}
